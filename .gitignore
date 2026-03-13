@@ -1,0 +1,31 @@
+# --- Cartelle temporanee e generate (DA NON PUSHARE) ---
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+/Script/
+.vscode/
+.vs/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# --- File di log e cache di sistema ---
+*.log
+*.txt
+FileOpenOrder/
+
+# --- Crash reports ---
+CrashReportClient/
+
+# --- Cartelle specifiche di plugin (se presenti) ---
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# --- File di configurazione locale (personali) ---
+Config/DefaultEditorPerProjectUserSettings.ini
+Config/DefaultEditorSettings.ini
